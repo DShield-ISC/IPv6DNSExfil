@@ -1,0 +1,3 @@
+ls
+dig yahoo.com
+cat /etc/passwd > /tmp/test
