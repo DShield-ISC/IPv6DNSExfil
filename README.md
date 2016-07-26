@@ -18,4 +18,6 @@ sample.txt is any file that you would like to encode. Typically a simple
 text file with a shell command to be executed.
 dns.key is the update key for your DNS server. This is optional, and if you need it or not will depend on your name server configuration.
 
+server.sh contains the oneliner that will execute the command on the compromised system.
+
 More details: <https://isc.sans.edu/diary.html?storyid=21301>
